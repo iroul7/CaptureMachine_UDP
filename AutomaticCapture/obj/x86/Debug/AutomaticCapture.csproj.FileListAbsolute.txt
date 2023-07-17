@@ -1,0 +1,38 @@
+D:\project\6. 자율주행\1. Code\1. AutomaticCapture\AutomaticCapture\AutomaticCapture\obj\x86\Debug\AutomaticCapture.CsAutomaticCapture.resources
+D:\project\6. 자율주행\1. Code\1. AutomaticCapture\AutomaticCapture\AutomaticCapture\obj\x86\Debug\AutomaticCapture.Properties.Resources.resources
+D:\project\6. 자율주행\1. Code\1. AutomaticCapture\AutomaticCapture\AutomaticCapture\obj\x86\Debug\AutomaticCapture.csproj.GenerateResource.Cache
+D:\project\6. 자율주행\1. Code\1. AutomaticCapture\AutomaticCapture\AutomaticCapture\bin\Debug\AutomaticCapture.exe
+D:\project\6. 자율주행\1. Code\1. AutomaticCapture\AutomaticCapture\AutomaticCapture\bin\Debug\AutomaticCapture.pdb
+D:\project\6. 자율주행\1. Code\1. AutomaticCapture\AutomaticCapture\AutomaticCapture\obj\x86\Debug\AutomaticCapture.exe
+D:\project\6. 자율주행\1. Code\1. AutomaticCapture\AutomaticCapture\AutomaticCapture\obj\x86\Debug\AutomaticCapture.pdb
+C:\Users\kcei\Desktop\[20.12.02] AutomaticCapture\AutomaticCapture\obj\x86\Debug\AutomaticCapture.exe
+C:\Users\kcei\Desktop\[20.12.02] AutomaticCapture\AutomaticCapture\obj\x86\Debug\AutomaticCapture.pdb
+C:\Users\kcei\Desktop\[20.12.02] AutomaticCapture\AutomaticCapture\bin\Debug\AutomaticCapture.exe
+C:\Users\kcei\Desktop\[20.12.02] AutomaticCapture\AutomaticCapture\bin\Debug\AutomaticCapture.pdb
+C:\Users\kcei\Desktop\[20.12.02] AutomaticCapture\AutomaticCapture\obj\x86\Debug\AutomaticCapture.CsAutomaticCapture.resources
+C:\Users\kcei\Desktop\[20.12.02] AutomaticCapture\AutomaticCapture\obj\x86\Debug\AutomaticCapture.Properties.Resources.resources
+C:\Users\kcei\Desktop\[20.12.02] AutomaticCapture\AutomaticCapture\obj\x86\Debug\AutomaticCapture.csproj.GenerateResource.Cache
+D:\project\6. 자율주행\1. Code\1. AutomaticCapture\[20.12.02] AutomaticCapture\AutomaticCapture\obj\x86\Debug\AutomaticCapture.exe
+D:\project\6. 자율주행\1. Code\1. AutomaticCapture\[20.12.02] AutomaticCapture\AutomaticCapture\obj\x86\Debug\AutomaticCapture.pdb
+D:\project\6. 자율주행\1. Code\1. AutomaticCapture\[20.12.02] AutomaticCapture\AutomaticCapture\bin\Debug\AutomaticCapture.exe
+D:\project\6. 자율주행\1. Code\1. AutomaticCapture\[20.12.02] AutomaticCapture\AutomaticCapture\bin\Debug\AutomaticCapture.pdb
+D:\project\6. 자율주행\1. Code\1. AutomaticCapture\[20.12.02] AutomaticCapture\AutomaticCapture\obj\x86\Debug\AutomaticCapture.CsAutomaticCapture.resources
+D:\project\6. 자율주행\1. Code\1. AutomaticCapture\[20.12.02] AutomaticCapture\AutomaticCapture\obj\x86\Debug\AutomaticCapture.Properties.Resources.resources
+D:\project\6. 자율주행\1. Code\1. AutomaticCapture\[20.12.02] AutomaticCapture\AutomaticCapture\obj\x86\Debug\AutomaticCapture.csproj.GenerateResource.Cache
+D:\project\6. 자율주행\1. Code\1. AutomaticCapture\[20.12.02] AutomaticCapture\AutomaticCapture\obj\x86\Debug\AutomaticCapture.csprojResolveAssemblyReference.cache
+D:\project\6. 자율주행\1. Code\1. AutomaticCapture\[21.01.12] AutomaticCapture\AutomaticCapture\obj\x86\Debug\AutomaticCapture.exe
+D:\project\6. 자율주행\1. Code\1. AutomaticCapture\[21.01.12] AutomaticCapture\AutomaticCapture\obj\x86\Debug\AutomaticCapture.pdb
+D:\project\6. 자율주행\1. Code\1. AutomaticCapture\[21.01.12] AutomaticCapture\AutomaticCapture\bin\Debug\AutomaticCapture.exe
+D:\project\6. 자율주행\1. Code\1. AutomaticCapture\[21.01.12] AutomaticCapture\AutomaticCapture\bin\Debug\AutomaticCapture.pdb
+D:\project\6. 자율주행\1. Code\1. AutomaticCapture\[21.01.12] AutomaticCapture\AutomaticCapture\obj\x86\Debug\AutomaticCapture.csprojResolveAssemblyReference.cache
+D:\project\6. 자율주행\1. Code\1. AutomaticCapture\[21.01.12] AutomaticCapture\AutomaticCapture\obj\x86\Debug\AutomaticCapture.CsAutomaticCapture.resources
+D:\project\6. 자율주행\1. Code\1. AutomaticCapture\[21.01.12] AutomaticCapture\AutomaticCapture\obj\x86\Debug\AutomaticCapture.Properties.Resources.resources
+D:\project\6. 자율주행\1. Code\1. AutomaticCapture\[21.01.12] AutomaticCapture\AutomaticCapture\obj\x86\Debug\AutomaticCapture.csproj.GenerateResource.Cache
+C:\Users\KCEI03\Desktop\lhk\[21.01.12] AutomaticCapture\AutomaticCapture\obj\x86\Debug\AutomaticCapture.exe
+C:\Users\KCEI03\Desktop\lhk\[21.01.12] AutomaticCapture\AutomaticCapture\obj\x86\Debug\AutomaticCapture.pdb
+C:\Users\KCEI03\Desktop\lhk\[21.01.12] AutomaticCapture\AutomaticCapture\bin\Debug\AutomaticCapture.exe
+C:\Users\KCEI03\Desktop\lhk\[21.01.12] AutomaticCapture\AutomaticCapture\bin\Debug\AutomaticCapture.pdb
+C:\Users\KCEI03\Desktop\lhk\[21.01.12] AutomaticCapture\AutomaticCapture\obj\x86\Debug\AutomaticCapture.csprojResolveAssemblyReference.cache
+C:\Users\KCEI03\Desktop\lhk\[21.01.12] AutomaticCapture\AutomaticCapture\obj\x86\Debug\AutomaticCapture.CsAutomaticCapture.resources
+C:\Users\KCEI03\Desktop\lhk\[21.01.12] AutomaticCapture\AutomaticCapture\obj\x86\Debug\AutomaticCapture.Properties.Resources.resources
+C:\Users\KCEI03\Desktop\lhk\[21.01.12] AutomaticCapture\AutomaticCapture\obj\x86\Debug\AutomaticCapture.csproj.GenerateResource.Cache

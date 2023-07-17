@@ -1,0 +1,21 @@
+C:\Users\kcei\Desktop\[20.12.02] AutomaticCapture\AutomaticCapture\bin\Release\AutomaticCapture.exe
+C:\Users\kcei\Desktop\[20.12.02] AutomaticCapture\AutomaticCapture\bin\Release\AutomaticCapture.pdb
+C:\Users\kcei\Desktop\[20.12.02] AutomaticCapture\AutomaticCapture\obj\x86\Release\AutomaticCapture.CsAutomaticCapture.resources
+C:\Users\kcei\Desktop\[20.12.02] AutomaticCapture\AutomaticCapture\obj\x86\Release\AutomaticCapture.Properties.Resources.resources
+C:\Users\kcei\Desktop\[20.12.02] AutomaticCapture\AutomaticCapture\obj\x86\Release\AutomaticCapture.csproj.GenerateResource.Cache
+C:\Users\kcei\Desktop\[20.12.02] AutomaticCapture\AutomaticCapture\obj\x86\Release\AutomaticCapture.exe
+C:\Users\kcei\Desktop\[20.12.02] AutomaticCapture\AutomaticCapture\obj\x86\Release\AutomaticCapture.pdb
+D:\project\6. 자율주행\1. Code\1. AutomaticCapture\[20.12.02] AutomaticCapture\AutomaticCapture\obj\x86\Release\AutomaticCapture.exe
+D:\project\6. 자율주행\1. Code\1. AutomaticCapture\[20.12.02] AutomaticCapture\AutomaticCapture\obj\x86\Release\AutomaticCapture.pdb
+D:\project\6. 자율주행\1. Code\1. AutomaticCapture\[20.12.02] AutomaticCapture\AutomaticCapture\bin\Release\AutomaticCapture.exe
+D:\project\6. 자율주행\1. Code\1. AutomaticCapture\[20.12.02] AutomaticCapture\AutomaticCapture\bin\Release\AutomaticCapture.pdb
+D:\project\6. 자율주행\1. Code\1. AutomaticCapture\[20.12.02] AutomaticCapture\AutomaticCapture\obj\x86\Release\AutomaticCapture.CsAutomaticCapture.resources
+D:\project\6. 자율주행\1. Code\1. AutomaticCapture\[20.12.02] AutomaticCapture\AutomaticCapture\obj\x86\Release\AutomaticCapture.Properties.Resources.resources
+D:\project\6. 자율주행\1. Code\1. AutomaticCapture\[20.12.02] AutomaticCapture\AutomaticCapture\obj\x86\Release\AutomaticCapture.csproj.GenerateResource.Cache
+C:\Users\KCEI03\Desktop\lhk\[21.01.12] AutomaticCapture\AutomaticCapture\obj\x86\Release\AutomaticCapture.exe
+C:\Users\KCEI03\Desktop\lhk\[21.01.12] AutomaticCapture\AutomaticCapture\obj\x86\Release\AutomaticCapture.pdb
+C:\Users\KCEI03\Desktop\lhk\[21.01.12] AutomaticCapture\AutomaticCapture\bin\Release\AutomaticCapture.exe
+C:\Users\KCEI03\Desktop\lhk\[21.01.12] AutomaticCapture\AutomaticCapture\bin\Release\AutomaticCapture.pdb
+C:\Users\KCEI03\Desktop\lhk\[21.01.12] AutomaticCapture\AutomaticCapture\obj\x86\Release\AutomaticCapture.CsAutomaticCapture.resources
+C:\Users\KCEI03\Desktop\lhk\[21.01.12] AutomaticCapture\AutomaticCapture\obj\x86\Release\AutomaticCapture.Properties.Resources.resources
+C:\Users\KCEI03\Desktop\lhk\[21.01.12] AutomaticCapture\AutomaticCapture\obj\x86\Release\AutomaticCapture.csproj.GenerateResource.Cache
